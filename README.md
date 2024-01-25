@@ -1,3 +1,22 @@
+# Nexus Software Web Development Projects
+
 This repository contains two web development projects created for an internship at Nexus Software.
-The first project focus on building simple login and signup page (UI-only) with basic form validation for the signup page.
-The second project is focused on building a simple restaurant website with login and signup functionality using the MERN stack.
+
+## Project 1: Simple Login and Signup Page (UI-only)
+
+- Basic login and signup pages with UI design.
+- Signup page includes basic form validation.
+
+## Project 2: Restaurant Website with MERN Stack
+
+- Simple restaurant website with login and signup functionality.
+- Built using the MERN (MongoDB, Express.js, React, Node.js) stack.
+
+### Installation
+
+After cloning the repository, run npm install to install necessary dependencies:
+
+### Running Projects
+
+To run the frontend, use: npm run dev
+For the backend, run: npm start
