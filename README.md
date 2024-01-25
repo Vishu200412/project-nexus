@@ -17,6 +17,7 @@ This repository contains two web development projects created for an internship 
 After cloning the repository, run npm install to install necessary dependencies:
 
 ### Running Projects
-
+#### Frontend
 To run the frontend, use: npm run dev
+#### Backend
 For the backend, run: npm start
